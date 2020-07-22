@@ -1,7 +1,7 @@
 # Recommendations with IBM
 
 
-A notebook exersice where I practiced:
+A notebook exercise where I practiced:
 
 	(1) Rank based recommendations
 	(2) User-user based collaborative filtering
